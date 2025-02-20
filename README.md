@@ -33,6 +33,11 @@ This question looks at which groups, such as age, gender, and health conditions,
 ### 4. How were vaccinations distributed globally, and how does vaccination coverage compare by country?  
 This question investigates the global distribution of vaccines and the disparities between countries in terms of vaccination coverage.
 
+### 5.How did mental health trends change during the pandemic?
+This question explores the psychological effects of COVID-19, such as the rise in anxiety and depression during lockdowns, economic disruptions, and fears related to the virus. It also considers which demographic groups were most affected by these changes, with a focus on young adults and vulnerable populations. Was there a correlation between COVID-19 cases and mental health crises?
+
+
+
 ## Objective
 
 The objective of this analysis is to examine if the vaccination rollout had a measurable impact on reducing COVID-19 mortality rates.
@@ -42,6 +47,7 @@ The objective of this analysis is to examine if the vaccination rollout had a me
 - **Trend Observations**: As the vaccination rate increased over time, the **mortality rate** appeared to decrease, suggesting that vaccines may have played a role in reducing deaths.
 - **Vaccination and Deaths**: The vaccination rate and total deaths are inversely correlated in some periods, which supports the hypothesis that the vaccine helped in reducing mortality.
 - **Impact of Vaccination**: Mortality rates decreased at certain points when significant vaccination milestones were reached, suggesting the positive effects of vaccination.
+- **Mental Health Impact: During the pandemic, mental health symptoms, especially anxiety and depression, rose significantly, particularly among young adults (ages 18-29). Factors such as social isolation, economic uncertainty, and disruptions to daily life played a role in the mental health crisis. Although there was a weak correlation between COVID-19 deaths and mental health crises, it was clear that the broader societal changes due to the pandemic had a profound effect on mental well-being.
 
 ### Mortality Rates by Vaccination Categories:
 
@@ -53,7 +59,11 @@ The objective of this analysis is to examine if the vaccination rollout had a me
 
 The analysis suggests that COVID-19 vaccinations have had a positive impact on reducing mortality rates. The trends indicate a decrease in the mortality rate as vaccination rates increased, providing evidence that the vaccine helped prevent deaths.
 
-However, it is important to consider other factors such as virus variants, healthcare systems, and public health measures that might have also contributed to the observed outcomes.
+However, it is important to consider other factors such as virus variants, healthcare systems, and public health measures that might have also contributed to the observed outcomes. Additionally, the pandemic's psychological toll, particularly among younger populations, underscores the need for mental health interventions in future global crises.
+The analysis suggests that COVID-19 vaccinations have had a positive impact on reducing mortality rates. The trends indicate a decrease in the mortality rate as vaccination rates increased, providing evidence that the vaccine helped prevent deaths.
+
+ 
+
 
 ## Requirements
 
