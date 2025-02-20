@@ -1,4 +1,4 @@
-# COVID-19 Vaccination and Mortality Rate Analysis :  "Did the vaccine actually help         prevent deaths?”
+# COVID-19 Vaccination and Mortality Rate Analysis
 
 ## Overview
 
@@ -19,31 +19,25 @@ The dataset is available as a CSV file and includes the following columns:
 - **vaccination_change**: The change in the number of vaccinations between consecutive days.
 - **death_change**: The change in the number of deaths between consecutive days.
 
+## Key Questions
+
+### 1. Did the vaccine help reduce the COVID-19 mortality rate?  
+This question is central to understanding whether the introduction of vaccines had a significant impact on reducing deaths due to COVID-19.
+
+### 2. How did the number of COVID-19 cases change over time across different countries?  
+This question examines how the pandemic evolved across various countries. Did the number of cases vary, and how did vaccination efforts affect the course of the pandemic?
+
+### 3. What group of people are the most at risk?  
+This question looks at which groups, such as age, gender, and health conditions, were most vulnerable to severe outcomes from COVID-19.
+
+### 4. How were vaccinations distributed globally, and how does vaccination coverage compare by country?  
+This question investigates the global distribution of vaccines and the disparities between countries in terms of vaccination coverage.
+
 ## Objective
 
 The objective of this analysis is to examine if the vaccination rollout had a measurable impact on reducing COVID-19 mortality rates.
 
-### Key Questions:
-
-- Did the vaccine help reduce the COVID-19 mortality rate?
-- How did the vaccination rate compare to the death rate over time?
-
-## Methodology
-
-1. **Data Preprocessing**: 
-   - The dataset was cleaned to ensure consistency, handling any missing or erroneous values.
-   - The `date` column was converted to datetime format to enable chronological sorting and analysis.
-
-2. **Data Analysis**:
-   - We filtered the data for specific dates to observe the trends at key time points (e.g., start of vaccination programs).
-   - We calculated the **mortality rate** by dividing the total number of deaths by the total population or cases (if available).
-   - We analyzed the relationship between **vaccination rates** and **mortality rates** over time to evaluate the potential effect of vaccines on preventing deaths.
-
-3. **Data Visualization**:
-   - Visualizations, such as time series plots and bar charts, were created to highlight the correlation between vaccinations and deaths.
-   - A histogram was used to compare the mortality rate and vaccination rate at specific points in time.
-
-## Key Findings
+### Key Findings:
 
 - **Trend Observations**: As the vaccination rate increased over time, the **mortality rate** appeared to decrease, suggesting that vaccines may have played a role in reducing deaths.
 - **Vaccination and Deaths**: The vaccination rate and total deaths are inversely correlated in some periods, which supports the hypothesis that the vaccine helped in reducing mortality.
